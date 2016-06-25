@@ -2,7 +2,7 @@
 Source code for FEM computing
 
 
-<h2>Unfiform mesh for an L-shaped domain</h2>
+<h2>Uniform mesh for an L-shaped domain</h2>
 <a href="http://gmsh.info/">Gmsh</a> file for  triangulation of L-shaped domain: $(0,2)\time (0,2) \setminus [1,2]\times [1,2]$.
 
 <ul>
