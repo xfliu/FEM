@@ -5,7 +5,7 @@ Source code for FEM computing
 <h2>Uniform mesh for an L-shaped domain</h2>
 <a href="http://gmsh.info/">Gmsh</a> file for  triangulation of L-shaped domain: 
 
-![equation](http://www.sciweavers.org/tex2img.php?eq=%280%2C2%29%5Ctimes+%280%2C2%29%5Csetminus+%5B1%2C2%5D%5Ctimes+%5B1%2C2%5D&bc=White&fc=Black&im=png&fs=12&ff=arev)
+$(0,2)\times (0,2) \setminus [1,2]\times [1,2]$
 
 <ul>
 <li> L_uniform_init_type_1.msh
