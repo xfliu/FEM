@@ -10,7 +10,7 @@ L-shaped domain $(0,2)\time (0,2) \setminus [1,2]\times [1,2]$
 <li> L_uniform_init_type_3.msh
 </ul>
 
-<img src="FEM/sample_of_initial_mesh.png">
+<img src="https://github.com/xfliu/FEM/blob/master/sample_of_initial_mesh.png">
 
 <h3>How to use the mesh</h3>
 
